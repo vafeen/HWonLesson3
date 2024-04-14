@@ -22,8 +22,6 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
-                <action android:name="ru.shalkoff.vsu_lesson2_2024.SURF_ACTION" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
 
                 <data android:scheme="geo" />
